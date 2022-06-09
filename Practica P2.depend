@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654747646 source:c:\users\usuario\documents\utn\2022\1er cuatrimestre\programación\archivos c\practica p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
